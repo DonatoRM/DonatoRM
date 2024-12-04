@@ -1,17 +1,21 @@
-### Hi there 👋
+# **Donato Ramos Martínez**
 
-<!--
-**DonatoRM/DonatoRM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**Sobre Mí**
 
-Desarrollador Fullstack
+Soy desarrollador full-stack con dominio de varias plataformas, lenguajes y sistemas integrados. Actuando siempre con constancia, compromiso y esfuerzo, soy capaz de auto gestionar eficazmente mis proyectos. Además, poseo excelentes habilidades de colaboración dentro de un equipo productivo.
 
-<!-- Here are some ideas to get you started:
+**Habilidades**
+- HTML, CSS, XML, SCSS
+- SQL, PL/SQL, MySQL, SQL Server, Oracle, PostgreSQL
+- JavaScript, TypeScript, JQuery
+- React JS, Next JS
+- Java, Jakarta EE (JPA, JSTL, API Servlet, CDI, JPA, - Hibernate, EJB, JSF3, Web Service SOAP(JAX WS y RS), JAAS), JUnit, Mockito.
+- PHP, Composer, Propel, Twig, Datatable, Blade.
+- C, C++, Visual Basic .NET, C#.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+**Proyectos Destacados**
+
+
+**Insignias**
+
+
