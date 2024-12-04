@@ -33,19 +33,7 @@ Soy desarrollador full-stack con dominio de varias plataformas, lenguajes y sist
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat=microsoft-sql-server&logoColor=white)
 ![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=flat&logo=oracle&logoColor=white)
 
-
-
-- HTML, CSS, XML, SCSS
-- SQL, PL/SQL, MySQL, SQL Server, Oracle, PostgreSQL
-- JavaScript, TypeScript, JQuery
-- React JS, Next JS
-- Java, Jakarta EE (JPA, JSTL, API Servlet, CDI, JPA, - Hibernate, EJB, JSF3, Web Service SOAP(JAX WS y RS), JAAS), JUnit, Mockito.
-- PHP, Composer, Propel, Twig, Datatable, Blade.
-- C, C++, Visual Basic .NET, C#.
-
 **Proyectos Destacados**
 
 
 **Insignias**
-
-
