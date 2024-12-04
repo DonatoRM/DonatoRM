@@ -7,6 +7,7 @@ Soy desarrollador full-stack con dominio de varias plataformas, lenguajes y sist
 **Lenguajes**
 
 ![HTML](https://img.shields.io/badge/HTML-EAD8B3?style=flat&logo=html5&logoColor=E34F26)
+![XML](https://img.shields.io/badge/XML-D1EDF0?style=flat&logo=xml&logoColor=005FAD)
 ![CSS](https://img.shields.io/badge/CSS-1CC1D6?style=flat&logo=css3&logoColor=1572B6)
 ![Sass](https://img.shields.io/badge/Sass-FFE3E1?style=flat&logo=sass&logoColor=CC6699)
 
