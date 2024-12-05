@@ -3,6 +3,7 @@
 <img src="fondo.png" alt="cabecera">
 
 **Sobre Mí**
+
 Soy desarrollador full-stack con dominio de varias plataformas, lenguajes y sistemas integrados. Actuando siempre con constancia, compromiso y esfuerzo, soy capaz de auto gestionar eficazmente mis proyectos. Además, poseo excelentes habilidades de colaboración dentro de un equipo productivo.
 
 **Lenguajes**
