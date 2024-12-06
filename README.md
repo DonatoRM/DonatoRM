@@ -1,6 +1,6 @@
 # **Donato Ramos Martínez**
 
-<img src="fondo.png" alt="cabecera" style="aspect-ratio: 16/9;">
+<img src="fondo.webp?v=${new Date().getTime()}" alt="cabecera" style="aspect-ratio: 16/9;">
 
 **Sobre Mí**
 
