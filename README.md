@@ -1,41 +1,38 @@
 # **Donato Ramos Martínez**
 
-<img src="fondo.webp?v=${new Date().getTime()}" alt="cabecera" style="aspect-ratio: 16/9;">
+<img src="banner.png" alt="cabecera" width="100%">
 
-**Sobre Mí**
+## 👨‍💻 Sobre mí
 
-Soy desarrollador full-stack con dominio de varias plataformas, lenguajes y sistemas integrados. Soy capaz de auto gestionar eficazmente mis proyectos, actuando siempre con constancia, compromiso y esfuerzo. Además, poseo excelentes habilidades de colaboración dentro de un equipo productivo.
+Soy profesional del desarrollo de software, con orientación **Full Stack** y experiencia en entornos tecnológicos empresariales.
 
-**Lenguajes**
+Mi actividad abarca tanto el desarrollo de aplicaciones web (frontend y backend) como la gestión de aplicaciones empresariales, participando en diferentes fases de su ciclo de vida: desarrollo, mantenimiento, control de versiones, gestión de dependencias, distribución de artefactos y seguimiento de proyectos.
 
-![HTML](https://img.shields.io/badge/HTML-EAD8B3?style=flat&logo=html5&logoColor=E34F26)
-![XML](https://img.shields.io/badge/XML-D1EDF0?style=flat&logo=xml&logoColor=005FAD)
-![CSS](https://img.shields.io/badge/CSS-D1EDF0?style=flat&logo=css3&logoColor=1572B6)
-![Sass](https://img.shields.io/badge/Sass-FFE3E1?style=flat&logo=sass&logoColor=CC6699)
+### 💻 Desarrollo de software
 
-![JavaScript](https://img.shields.io/badge/JavaScript-A15B00?style=flat&logo=javascript&logoColor=F7DF1E)
-![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-white?style=flat&logo=typescript&logoColor=3178C6)
-![ReactJS](https://img.shields.io/badge/ReactJS-white?style=flat&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/NextJS-white?style=flat&logo=nextdotjs&logoColor=000000)
+Trabajo con diferentes lenguajes, tecnologías y frameworks, con especial interés en el ecosistema **Java, Jakarta EE y Spring**, así como en el desarrollo frontend con **Angular, TypeScript y JavaScript**.
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=coffeescript&logoColor=E3B417)
-![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-5836A3?style=flat&logo=sails.js&logoColor=E3B417)
+También cuento con conocimientos en PHP, React, SQL y diferentes sistemas gestores de bases de datos relacionales.
 
-![PHP](https://img.shields.io/badge/PHP-F6E6FE?style=flat&logo=php&logoColor=777BB4)
+### 🏢 Gestión de aplicaciones empresariales
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
+Tengo experiencia trabajando con herramientas y plataformas utilizadas en entornos corporativos para gestionar aplicaciones, repositorios, versiones, artefactos y procesos de desarrollo.
 
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Visual Basic .NET](https://img.shields.io/badge/Visual%20Basic%20.NET-5C2D91?style=flat&logo=dotnet&logoColor=white)
+Entre las principales herramientas con las que trabajo se encuentran:
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat=microsoft-sql-server&logoColor=white)
-![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=flat&logo=oracle&logoColor=white)
+- **Gestión de proyectos:** Jira.
+- **Control de versiones:** Git, GitHub, GitLab y Apache Subversion (SVN).
+- **Gestión de artefactos y repositorios:** Sonatype Nexus y JFrog Artifactory.
+- **Integración y automatización de procesos:** Jenkins.
 
-**Proyectos Destacados**
+### ⚙️ Entornos y tecnologías
 
+Trabajo con diferentes entornos de desarrollo y servidores de aplicaciones, entre ellos **WildFly, Open Liberty y Apache Tomcat**, además de tecnologías de contenedores como Docker y sistemas Linux.
 
-**Insignias**
+### 🎯 Filosofía profesional
+
+Me considero una persona autodidacta, constante y comprometida con la calidad del software y la mejora continua.
+
+Me interesa comprender en profundidad las tecnologías, los procesos y las herramientas que intervienen en el desarrollo y la gestión de aplicaciones empresariales, buscando siempre soluciones eficientes, estructuradas y mantenibles.
+
+**Mi objetivo es seguir evolucionando profesionalmente, combinando el desarrollo de software con el conocimiento de los entornos y procesos tecnológicos que permiten gestionar aplicaciones empresariales de forma eficiente.**
